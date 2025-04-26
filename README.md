@@ -1,7 +1,6 @@
 # ✨ Fame Transfer - HTML & CSS Template  
 
-🌍 Live Preview: [View the Project](https://rakshithabr700.github.io/html_css_template_fame-transfer/)  
-
+🌍 Live Preview: git clone https://github.com/rakshithabr700/html_css_template_fame-transfer.git
 ## 📌 About This Project  
 Fame Transfer is a sleek and responsive HTML & CSS template designed for modern web applications. It offers a stylish, professional layout suitable for businesses, portfolios, and landing pages.  
 
